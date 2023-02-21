@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.team-card-container {
+  display: flex;
+  background-color: #ffffff33;
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+  padding: 10px;
+  cursor: pointer;
+  height: 150px;
+  width: 40%;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  align-items: center;
+}
+.team-card-image {
+  width: 100px;
+  height: 120px;
+}
+.team-card-heading {
+  font-family: Bree Serif;
+  color: #ffffff;
+  font-weight: 200;
+  text-decoration: none;
+}
+.list {
+  display: flex;
+  justify-content: center;
+}
